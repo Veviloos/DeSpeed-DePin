@@ -58,7 +58,7 @@ npm install node-fetch@2 https-proxy-agent socks-proxy-agent ws
 ### 3️⃣ Get DeSpeed ​​token
 
 1. **Register an account**
-- Visit [DeSpeed ​​official website](https://app.despeed.net/register?ref=dCmVwI7EwiuE)
+- Visit [DeSpeed ​​official website](https://app.despeed.net/register?ref=mUwNrJGLwuq0)
 - Complete registration and log in
 
 2. **Get a token** (simple method)
